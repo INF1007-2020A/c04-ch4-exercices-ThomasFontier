@@ -25,7 +25,6 @@ def get_number_of_char(string: str, char: str) -> int:
         if (binaire == banaire_2):
             k += 1 
     return k
-        pass
 
 
 def get_number_of_words(sentence: str, word: str) -> int:
