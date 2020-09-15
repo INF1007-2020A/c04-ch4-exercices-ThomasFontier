@@ -22,7 +22,8 @@ def get_number_of_char(string: str, char: str) -> int:
     binaire = ord(char)
     for c in range(string):
         binaire_2 = ord(c)
-        if (bianire =)
+        if (bianire == bainaire_2):
+            
         pass
 
 
