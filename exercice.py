@@ -15,13 +15,12 @@ def remove_third_char(string: str) -> str:
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
-    
+
     return string
     pass
 
 
 def get_number_of_char(string: str, char: str) -> int:
-    binaire = ord('char')
     for c in range(string):
         binaire_2 = ord('c')
         if (binaire == banaire_2):
