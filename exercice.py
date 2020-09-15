@@ -22,7 +22,7 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
 
 def get_number_of_char(string: str, char: str) -> int:
     for c in range(string):
-        binaire_2 = ord('c')
+        
         if (binaire == banaire_2):
             k += 1 
     return k
