@@ -4,7 +4,7 @@
 
 def is_even_len(string: str) -> bool:
     taille = len(string)
-    reste = int()
+    reste = tailleint(taille/2)
     print('taille')
     pass
 
