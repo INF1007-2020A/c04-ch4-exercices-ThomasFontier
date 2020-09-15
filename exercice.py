@@ -5,8 +5,7 @@
 def is_even_len(string: str) -> bool:
     taille = len(string)
     reste = taille % 2
-    print('reste= 0')
-    pass
+    print('reste == 0')
 
 
 def remove_third_char(string: str) -> str:
