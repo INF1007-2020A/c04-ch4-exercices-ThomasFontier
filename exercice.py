@@ -4,6 +4,7 @@
 
 def is_even_len(string: str) -> bool:
     taille = len(string)
+    
     pass
 
 
