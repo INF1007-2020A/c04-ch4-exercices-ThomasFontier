@@ -5,13 +5,11 @@
 def is_even_len(string: str) -> bool:
     taille = len(string)
     reste = taille % 2
-    print('reste == 0')
+    print(reste == 0)
 
 
 def remove_third_char(string: str) -> str:
-    for c in range(len(string))
-        if (c != 3):
-            print(c)
+    print()
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
@@ -22,8 +20,8 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
 
 def get_number_of_char(string: str, char: str) -> int:
     k = 0
-    for i in range(string):
-        if (str(i) == str(char))
+    for i in range(len(string)):
+        if string[i] == char:
             k += 1 
     return k
 
